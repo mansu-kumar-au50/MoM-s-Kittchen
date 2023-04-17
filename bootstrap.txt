@@ -1,0 +1,37 @@
+MAIN LINKS
+
+FOR PICTURE -
+https://source.unsplash.com/1600x900/?nature,water
+
+https://source.unsplash.com/500x500/?indian food
+<div class="header-top">
+    <div class="l-constrained">
+
+      <a href="#" class="header-meta-toggle nav-toggle" style="user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); touch-action: none;">More</a>
+          	<div id="logo"><a href="https://www.alleycat.org"><img src="https://www.alleycat.org/wp-content/themes/AlleyCat/assets/build/images/grey-logo.png" alt="Alley Cat Allies" width="339" height="70"></a></div>
+      
+      <div class="header-meta">
+
+          <nav class="header-meta-nav">
+            <ul id="menu-header-meta-nav" class="menu"><li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="https://www.alleycat.org/about/">About</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://www.alleycat.org/press/">Press</a></li>
+</ul>          </nav>
+
+          <div class="search-social">
+          <form role="search" method="get" id="searchform" class="searchform" action="https://www.alleycat.org">
+  <div>
+    <label for="s" class="search-label">Search</label>
+    <input type="text" value="" name="s" id="s" placeholder="search" class="aa-input" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style=""><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: normal; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre>
+    <input type="submit" id="searchsubmit" value="Search">
+  </div>
+</form>            <ul class="social-links">
+              <li><a href="http://www.twitter.com/alleycatallies" class="social-link twitter">Twitter</a></li>
+              <li><a href="http://www.facebook.com/AlleyCatAllies" class="social-link facebook">Facebook</a></li>
+              <li><a href="http://www.youtube.com/alleycatallies" class="social-link youtube">YouTube</a></li>
+              <li><a href="http://instagram.com/AlleyCatAllies" class="social-link instagram">Instagram</a></li>
+            </ul>
+          </div>
+      </div><!-- end header meta -->
+
+    </div><!-- end constrained -->
+  </div>
